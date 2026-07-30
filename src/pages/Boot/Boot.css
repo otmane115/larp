@@ -1,0 +1,10 @@
+.boot-screen {
+  background: black;
+  color: #0f0;
+  height: 100vh;
+  padding: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.boot-content p { margin: 5px 0; }
+.blink { animation: blink 1s infinite; }
+@keyframes blink { 50% { opacity: 0; } }
