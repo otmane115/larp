@@ -3,7 +3,7 @@ import Terminal from "../Terminal/Terminal";
 import "./Desktop.css";
 import type { AppWindow } from "../../types/window";
 import Window from "../Window/Window";
-import { clickSound } from "../../utils/sounds";
+
 import Browser from "../../apps/Browser/Browser";
 import Diary from "../../apps/Diary/Diary";
 import Archive from "../../apps/Archive/Archive";
